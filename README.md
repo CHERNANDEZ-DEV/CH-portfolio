@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. I am a software engineer passionate about creating innovative and efficient solutions. In this repository, you will find information about my projects, skills, and professional experience.
 
-## About Me
+## About me
 
 I am a Software Engineer with an analytical mindset, an objective perspective, and a strong focus on results. My passion for technology and continuous learning drives me to adapt to various challenges and stay updated with the latest technological advances.
 
@@ -80,7 +80,7 @@ Implemented authentication and authorization mechanisms to ensure secure user ac
   - Features: Real-time database, authentication, and push notifications.  
 
 
-## 💼 Professional Experience  
+## 💼 Professional experience  
 
 ### **Instituto Técnico Ricaldone**  
 **Full-Stack Web Developer | 6 months**  
